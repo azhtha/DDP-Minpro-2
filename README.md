@@ -15,7 +15,7 @@ Ini daftar kelas memasak yang tersedia. Masing masing punya kode kelas, nama kel
 
 ![image](https://github.com/user-attachments/assets/21ea3e8d-69bb-4fc3-b7ec-81e1c698bc0c)
 
-Ini buat login. Program minta input username dan password. Kalo cocok dengan data di users, kita berhasil login. Kalo salah, akan muncul error.
+Ini buat login. Program minta input username dan password. Kalau cocok dengan data di users, kita berhasil login. Kalo salah, akan muncul error.
 
 ![image](https://github.com/user-attachments/assets/cda08466-8d72-45df-94be-9a61467f78c9)
 
@@ -23,7 +23,7 @@ Ini contoh Input untuk yang username sekaligus password dan Output yang tulisan 
 
 ![image](https://github.com/user-attachments/assets/ffce69ef-e563-4954-8ac9-59278e75f3da)
 
-Setelah login, kita disuruh memilih role atau peran. Ada 2 opsi, yaitu admin atau pembeli. Kalo pilih admin, kita bisa ngelola kelas seperti menambah dan menghapus kelas. Kalo pilih pembeli, kita bisa melihat daftar kelas dan daftar ke salah satu kelas.
+Setelah login, kita disuruh memilih role atau peran. Ada 2 opsi, yaitu admin atau pembeli. Kalau pilih admin, kita bisa ngelola kelas seperti menambah dan menghapus kelas. Kalau pilih pembeli, kita bisa melihat daftar kelas dan daftar ke salah satu kelas.
 
 ![image](https://github.com/user-attachments/assets/6b15d7f9-0198-4d04-bd97-2932ce97e072)
 
@@ -32,3 +32,34 @@ Contoh input, yaitu saya memasukkan pilihan saya dan outputnya akan memunculkan 
 ![image](https://github.com/user-attachments/assets/b0e234e7-dbb2-489a-9737-0bd089a0dce4)
 
 Fungsi ini untuk menampilkan daftar kelas memasak yang tersedia. Tabel yang dipakai library PrettyTable, jadi tampilan lebih rapi.
+
+![image](https://github.com/user-attachments/assets/6bbc2363-82e4-4883-9aef-92f690868f5c)
+
+Contoh output beberapa daftar kelas masakan
+
+![image](https://github.com/user-attachments/assets/f57f206f-0012-4adb-89e0-69457a4f914d)
+
+Admin memakai fungsi ini untuk menambah kelas baru. Kelas yang ditambahkan otomatis masuk ke dalam list cooking_class.
+
+![image](https://github.com/user-attachments/assets/82c8599a-18db-4fd1-bef4-07b67a1e77cb)
+
+Contoh Input (Masukkan semua dari kode kelas sampai slot kelas) sekaligus Output (Kelas sate ayam sudah berhasil ditambah)
+
+![image](https://github.com/user-attachments/assets/08969cf6-b1f5-4689-a3ce-3b3581ccc532)
+
+Admin bisa menghapus kelas berdasarkan kode kelas. Kalau kelasnya ada, langsung dihapus. Kalau tidak ada, program bakal kasih tau kalau kode kelasnya gak ditemukan.
+
+![image](https://github.com/user-attachments/assets/2e7d537f-f557-4ade-bda2-ffa74f2f2726)
+
+Ini contoh input kode kelas yang ingin dihapus, output untuk melihat apakah kode kelas berhasil dihapus.
+
+![image](https://github.com/user-attachments/assets/e2434120-ebdd-4e5f-be61-8b54c92757fe)
+
+Fungsi ini dipakai oleh pembeli untuk daftar ke kelas masak. Caranya, kita pilih kelas berdasarkan kode kelas yang tersedia. Kalau slot masih ada, kita bisa daftar. Kalau slotnya sudah penuh, kita akan dapat pesan kalau kelasnnya penuh.
+
+![image](https://github.com/user-attachments/assets/b27904af-b334-47ed-b96c-953fe671de70)
+
+Ini input untuk kode kelas yang ingin diikuti sedangkan output menunjukkan hasil berhasil mendaftar kekelas bebek goreng sehingga yang awalnya ada 6 slot sisa 5 slot.
+
+![image](https://github.com/user-attachments/assets/6e21833e-df33-4660-ae5a-bfd65ab2e94d)
+
