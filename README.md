@@ -63,3 +63,7 @@ Ini input untuk kode kelas yang ingin diikuti sedangkan output menunjukkan hasil
 
 ![image](https://github.com/user-attachments/assets/6e21833e-df33-4660-ae5a-bfd65ab2e94d)
 
+![image](https://github.com/user-attachments/assets/3349e2a0-e8f0-40de-86e4-5dcd636bf254)
+
+Ini fungsi yang menampilkan menu sesuai peran yang kita pilih, kalau admin kita bisa hapus kelas dan tambah kelas. Kalau pembeli, kita bisa lihat daftar kelas dan daftar ke kelas yang kita mau.
+
