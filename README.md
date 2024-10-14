@@ -55,7 +55,7 @@ Ini contoh input kode kelas yang ingin dihapus, output untuk melihat apakah kode
 
 ![image](https://github.com/user-attachments/assets/e2434120-ebdd-4e5f-be61-8b54c92757fe)
 
-Fungsi ini dipakai oleh pembeli untuk daftar ke kelas masak. Caranya, kita pilih kelas berdasarkan kode kelas yang tersedia. Kalau slot masih ada, kita bisa daftar. Kalau slotnya sudah penuh, kita akan dapat pesan kalau kelasnya penuh. Slot akan berkurang ketika kita daftar di menu yang kita ingin masak.
+Fungsi ini dipakai oleh pembeli untuk daftar ke kelas masak. Caranya, kita pilih kelas berdasarkan kode kelas yang tersedia. Kalau slot masih ada, kita bisa daftar. Slot akan berkurang ketika kita daftar di menu yang kita ingin masak.
 
 ![image](https://github.com/user-attachments/assets/b27904af-b334-47ed-b96c-953fe671de70)
 
