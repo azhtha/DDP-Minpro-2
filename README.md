@@ -67,3 +67,6 @@ Ini input untuk kode kelas yang ingin diikuti sedangkan output menunjukkan hasil
 
 Ini fungsi yang menampilkan menu sesuai peran yang kita pilih, kalau admin kita bisa hapus kelas dan tambah kelas. Kalau pembeli, kita bisa lihat daftar kelas dan daftar ke kelas yang kita mau.
 
+![image](https://github.com/user-attachments/assets/501947a9-11f3-43e5-b3d3-31eb8f983c85)
+
+Ini bagian memastikan fungsi login() hanya akan dijalankan kalau kita yang langsung menjalankan file ini. jadi, kalau ada orang yang mau menggunakan kode ini di file lain, fungsi loginnya nggak bakal langsung jalan.
